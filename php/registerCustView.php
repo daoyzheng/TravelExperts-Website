@@ -23,7 +23,6 @@
     <?php
         print("<link rel=\"stylesheet\" type=\"text/css\" href=\"$_root/styles/styles.css\">");
     ?>
-                    print("<link rel=\"stylesheet\" type=\"text/css\" href=\"$_root/styles/styles.css\">");
 </head>
 
 <body class="register">
