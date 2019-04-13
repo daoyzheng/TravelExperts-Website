@@ -1,4 +1,10 @@
-# TravelExperts-website
+# TravelExperts-Website
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Apache
 
 ## Overview
 Server-side processing with PHP and MySQL
